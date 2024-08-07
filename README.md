@@ -27,8 +27,10 @@ Create a responsive one-page portfolio website using Next.js and Tailwind CSS to
 - A contact form with fields for name, email, and message.
 
 ## API Integration
-- Use an OpenAPI (e.g., GitHub API) to fetch project data.
+- Use GitHub API endpoint to pull in project data.
+- https://api.github.com/users/${github-username}/repos?sort=updated&per_page=3
 - Display project data dynamically in the Projects Section.
+
 
 ## Design & Responsiveness
 - Use **Tailwind CSS** to create a visually appealing design.
