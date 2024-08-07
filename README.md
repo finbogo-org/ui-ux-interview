@@ -21,7 +21,7 @@ Create a responsive one-page portfolio website using Next.js and Tailwind CSS to
 
 ### Projects Section
 - Showcase 2-3 projects.
-  - Each project should have an image, title, and a short description.
+  - Each project should have 3 fields, e.g. name, description, url
 
 ### Contact Section
 - A contact form with fields for name, email, and message.
